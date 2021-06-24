@@ -1,5 +1,5 @@
 {
-  "name": "audio-loader",
+  "name": "@baocang/audio-loader",
   "version": "1.0.3",
   "description": "A flexible web audio sample loader for browser and node",
   "main": "lib/index.js",
