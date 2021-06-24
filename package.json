@@ -31,18 +31,18 @@
     "url": "https://github.com/danigb/audio-loader/issues"
   },
   "dependencies": {
-    "audio-context": "^1.0.0",
-    "audio-decode": "^1.2.5",
-    "is-absolute": "^0.2.6",
-    "is-audio-buffer": "^1.0.8",
-    "is-buffer": "^1.1.5",
-    "is-relative": "^0.2.1",
-    "is-url": "^1.2.2",
+    "audio-context": "^1.0.3",
+    "audio-decode": "^1.4.0",
+    "is-absolute": "^1.0.0",
+    "is-audio-buffer": "^1.1.0",
+    "is-buffer": "^2.0.5",
+    "is-relative": "^1.0.0",
+    "is-url": "^1.2.4",
     "object-assign": "^4.1.1",
-    "request": "^2.74.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
-    "audio-lena": "^1.1.0",
-    "tape": "^4.6.3"
+    "audio-lena": "^2.1.1",
+    "tape": "^5.2.2"
   }
 }
