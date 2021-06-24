@@ -26,7 +26,6 @@
         "no-inner-declarations": ["error", "functions"],
         "no-irregular-whitespace": 2,
         "no-loop-func": 1,
-        "no-magic-numbers": ["warn", { "ignore": [1, 0, -1], "ignoreArrayIndexes": true}],
         "no-multi-str": 1,
         "no-mixed-spaces-and-tabs": 1,
         "no-proto": 1,
@@ -39,6 +38,7 @@
         "wrap-iife": 1,
         "no-redeclare": 1,
         "no-unused-vars": ["error", { "vars": "all", "args": "none" }],
-        "no-sparse-arrays": 1
+        "no-sparse-arrays": 1,
+        "no-useless-escape": "off"
     }
 }

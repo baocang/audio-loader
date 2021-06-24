@@ -43,6 +43,10 @@
   },
   "devDependencies": {
     "audio-lena": "^2.1.1",
-    "tape": "^5.2.2"
+    "browserify": "^17.0.0",
+    "budo": "^11.6.4",
+    "eslint": "^7.29.0",
+    "tape": "^5.2.2",
+    "uglify-js": "^3.13.9"
   }
 }
